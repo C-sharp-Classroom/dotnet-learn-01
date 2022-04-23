@@ -1,7 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using System;
 namespace dotnet_learn_01
 {
-  class Sharon 
+  class Program 
   {
     static void Main(string[] args) 
     {
