@@ -1,5 +1,4 @@
-﻿using System;
-namespace dotnet_learn_01
+﻿namespace dotnet_learn_01
 {
   class Program 
   {
