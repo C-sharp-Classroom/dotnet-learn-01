@@ -36,7 +36,7 @@ dotnet add package Figgle
 1. 結構
 
 - bin 用來放 build 或 publish 出來得檔案
-- obj 存放 dependency
+- obj nuget 的一些相依性暫時檔案
 - $project_name.csproj 用來紀錄檔案設定的 profile 
 - *.cs 檔案執行內容
 
